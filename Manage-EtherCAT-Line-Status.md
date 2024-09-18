@@ -14,7 +14,7 @@ There are two EtherCAT lines, one attached to the TMA-PXI axis and the other to 
 
 * TMA-PXI EtherCAT line.
   * Master TMA-PXI (139.229.171.3).
-  * Slaves: 
+  * Slaves:
     * Phase power supply.
     * Distributed IOs. They manage the fluid sensors, temperature controllers, limit switches, Bosch motors power supply, and others.
 * AXES PXI EtherCAT line.
@@ -56,7 +56,7 @@ To restore de EtherCAT line use the NI distributed system manager in a PC with a
 
 ### TMA-PXI EtherCAT line
 
-<mark >**To restore the EtherCAT line for the TMA-PXI be sure to switch off the next elements**</mark>
+<mark>**To restore the EtherCAT line for the TMA-PXI be sure to switch off the next elements**</mark>
 
 * Phase Power supply
 * Mirror Cover
@@ -83,7 +83,7 @@ The steps for restoring the EtherCAT line are:
 
 ### AXES PXI EtherCAT line
 
-<mark >**To restore the EtherCAT line for the AXE PXI be sure to switch off the next elements**</mark>
+<mark>**To restore the EtherCAT line for the AXE PXI be sure to switch off the next elements**</mark>
 
 * Azimuth
 * Elevation
