@@ -1,4 +1,4 @@
-# ManageEtherCATLineStatus
+# Manage EtherCAT Line Status
 
 | **Requested by:** | **GHESA** |
 | --- | --- |
