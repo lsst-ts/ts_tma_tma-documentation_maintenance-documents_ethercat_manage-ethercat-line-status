@@ -8,7 +8,11 @@
 
 ## Introduction
 
-This repository has the documentation to diagnose if the EtherCAT line is working properly and to restore the EtherCAT line if it is necessary. The diagnosis shown in this document is very basic, and only allows to now if the EtherCAT line is working properly or not (The NI EtherCAT master does not allow better diagnose). To a deeper diagnose of an issue use the documentation shown in the [EtherCAT Line diagnosis repo](https://github.com/lsst-ts/ts_tma_tma-documentation_maintenance-documents_ethercat_ethercat-line-diagnostic).
+This repository has the documentation to diagnose if the EtherCAT line is working properly and to restore the EtherCAT
+line if it is necessary. The diagnosis shown in this document is very basic, and only allows to now if the EtherCAT line
+is working properly or not (The NI EtherCAT master does not allow better diagnose). To a deeper diagnose of an issue use
+the documentation shown in the
+[EtherCAT Line diagnosis](https://ts-tma.lsst.io/docs/tma_maintenance_ethercat_ethercat-line-diagnostic/EtherCAT-Line-Diagnostic.html).
 
 There are two EtherCAT lines, one attached to the TMA-PXI axis and the other to the AXES PXI. The lines works in a totally independent way.
 
